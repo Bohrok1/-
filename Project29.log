@@ -1,0 +1,59 @@
+﻿  Source.cpp
+c:\users\user\source\repos\project29\project29\source.cpp(31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(34): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\source\repos\project29\project29\source.cpp(66): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\user\source\repos\project29\project29\source.cpp(83): warning C4305: =: усечение из "double" в "float"
+c:\users\user\source\repos\project29\project29\source.cpp(88): warning C4305: =: усечение из "double" в "float"
+c:\users\user\source\repos\project29\project29\source.cpp(114): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(121): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(138): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(139): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(144): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(146): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(151): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(153): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(195): warning C4305: =: усечение из "double" в "float"
+c:\users\user\source\repos\project29\project29\source.cpp(208): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(209): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(213): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(214): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(215): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(215): warning C4305: =: усечение из "double" в "float"
+c:\users\user\source\repos\project29\project29\source.cpp(216): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(216): warning C4305: =: усечение из "double" в "float"
+c:\users\user\source\repos\project29\project29\source.cpp(234): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(237): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(268): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(269): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(273): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(274): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(275): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(276): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(280): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(281): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(282): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(283): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(301): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(304): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(388): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(389): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(409): warning C4305: =: усечение из "double" в "float"
+c:\users\user\source\repos\project29\project29\source.cpp(411): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(420): warning C4305: =: усечение из "double" в "float"
+c:\users\user\source\repos\project29\project29\source.cpp(421): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(428): warning C4305: =: усечение из "double" в "float"
+c:\users\user\source\repos\project29\project29\source.cpp(429): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(435): warning C4305: =: усечение из "double" в "float"
+c:\users\user\source\repos\project29\project29\source.cpp(451): warning C4305: =: усечение из "double" в "float"
+c:\users\user\source\repos\project29\project29\source.cpp(465): warning C4305: =: усечение из "double" в "float"
+c:\users\user\source\repos\project29\project29\source.cpp(499): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\project29\project29\source.cpp(437): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+  Project29.vcxproj -> C:\Users\User\source\repos\Project29\x64\Debug\Project29.exe
